@@ -1,6 +1,6 @@
-# 📊 Librería Foodware
+# 📊 Librería de diseño Foodware
 
-**Versión:** V0<br>
+**Versión:** V2<br>
 **Estado:** Work in Progress<br>
 **URL del Archivo:** [Figma file link](https://www.figma.com/design/b76QTAD3VrAZ0gz0hPmyRZ/Libreri%CC%81a-foodware)<br>
 **Última Actualización:** 02/06/2026<br>
@@ -18,15 +18,38 @@
 | Página | Función |
 |---|---|
 | Cover | Portada y estado del proyecto. |
-| Componentes | Libreria de componentes de Fodware |
 | 📘 Docs | Documentación y auditoría automática. |
 | Brand | Sin detalles |
+| Components | Sin detalles |
+| View | Página con vistas de diseño de la interfaz |
 | 📦 Archive | Sin detalles |
+
+## 📸 Registro de trabajo en progreso (WIP)
+
+### Section name: SingIn/SingUP
+
+**Fecha:** 2026-02-06<br>
+**DS track Number:** 724 Tokens, 67 Componentes<br>
+**Url Section:** [Ir a la sección](https://www.figma.com/design/b76QTAD3VrAZ0gz0hPmyRZ/Libreri%CC%81a-foodware?version-id=2317430427818296492&node-id=58698-17476)<br>
+**Snapshot Id version:** 2317430427818296492<br>
+**Url Version:** [Version link Snapshot](https://www.figma.com/design/b76QTAD3VrAZ0gz0hPmyRZ/Libreri%CC%81a-foodware?version-id=2317430427818296492&node-id=58698-17476)
+
+***
+
+### Section name: EXPORT-LOGO-BRAND
+
+**Fecha:** 02/06/2026<br>
+**DS track Number:** 724 Tokens, 59 Componentes<br>
+**Url Section:** [Ir a la sección](https://www.figma.com/design/b76QTAD3VrAZ0gz0hPmyRZ/Libreri%CC%81a-foodware?node-id=58695-4356)<br>
+**Snapshot Id version:** 2317418989772662891<br>
+**Url Version:** [Version link Snapshot](https://www.figma.com/design/b76QTAD3VrAZ0gz0hPmyRZ/Libreri%CC%81a-foodware?version-id=2317418989772662891&node-id=58695-4356)
+
+***
 
 ## 🎨 Resumen de Tokens
 | Tipo | Cantidad |
 |---|---|
-| Colores | 570 |
+| Colores | 578 |
 | Números/Espaciado | 134 |
 | Texto | 12 |
 | Booleanos | 0 |
@@ -93,13 +116,38 @@
 | warning | 1 | `705:3780` | ⚠️ Sin descripción |
 | check_circle | 1 | `705:3787` | ⚠️ Sin descripción |
 | cancel | 1 | `705:3834` | ⚠️ Sin descripción |
+| LogoStacked-OneColorDark | 6 | `58696:14098` | ⚠️ Sin descripción |
+| LogoStacked-OneColorLight | 6 | `58696:14310` | ⚠️ Sin descripción |
+| LogoStacked-ColorLight | 2 | `58696:14522` | ⚠️ Sin descripción |
+| LogoInline-ColorLight | 2 | `58696:14593` | ⚠️ Sin descripción |
+| LogoStacked-ColorDark | 2 | `58696:14670` | ⚠️ Sin descripción |
+| LogoInline-ColorDark | 2 | `58696:14741` | ⚠️ Sin descripción |
+| LogoInline-OneColorDark | 6 | `58696:14818` | ⚠️ Sin descripción |
+| LogoInline-OneColorLight | 6 | `58696:15042` | ⚠️ Sin descripción |
 
-> ℹ️ **Estado de Documentación:** 11 de 59 componentes tienen descripción (**19%**).
+> ℹ️ **Estado de Documentación:** 11 de 67 componentes tienen descripción (**16%**).
 
 
 ## 📝 Notas Manuales
-# 📘Foodware Design System: Token Architecture & Usage Guide
+# 📘Foodware Design System: Token Architecture<br>
 **Estrategia:** High Propagation, 
-**Fuente de Verdad:** `tokens/default/global.json`
+**Fuente de Verdad:** `tokens/default/global.json` <br>
+`css/global.css` <br>
 
+
+Este documento actúa como la **Fuente de Verdad Única** (Single Source of Truth) para este archivo de diseño. Su objetivo es centralizar la documentación técnica, el estado visual y el historial de cambios en un solo artefacto vivo.<br>
+
+## 🎯 Propósito del Documento
+Este manifiesto elimina la brecha entre las disciplinas, asegurando que todos tengan el mismo contexto:
+
+- **🎨 Para Diseño:** Mantiene un registro inmutable de versiones (Snapshots) y auditoría de cobertura de componentes.
+- **💻 Para Desarrollo & Live Coding:** Proporciona enlaces profundos (Deep Links) a estados específicos de la interfaz, facilitando la implementación sin ambigüedades.
+- **🤖 Para IA & Contexto:** Estructura la información semánticamente (Tokens, Componentes, Estado), permitiendo que asistentes de IA entiendan rápidamente la arquitectura del sistema de diseño.
+
+## 🛠 Cómo usar este archivo
+1. **Revisa la Tabla de Estado:** Verifica la versión actual y el semáforo de progreso (WIP/Done).
+2. **Explora los Snapshots:** Usa la sección de "Evidencia" para viajar en el tiempo a versiones aprobadas.
+3. **Auditoría Automática:** Consulta las tablas inferiores para ver la salud de los tokens y descripciones de componentes.
+
+> ℹ️ **Nota:** Este es un documento vivo. Cada sincronización desde el plugin MarkSync actualiza automáticamente las métricas y el estado visual.
 

@@ -1,0 +1,3694 @@
+{
+  "font": {
+    "weight-light": {
+      "$value": 300,
+      "$type": "number",
+      "$description": ""
+    },
+    "weight-regular": {
+      "$value": 400,
+      "$type": "number",
+      "$description": ""
+    },
+    "weight-medium": {
+      "$value": 500,
+      "$type": "number",
+      "$description": ""
+    },
+    "weight-bold": {
+      "$value": 700,
+      "$type": "number",
+      "$description": ""
+    },
+    "weight-black": {
+      "$value": 900,
+      "$type": "number",
+      "$description": ""
+    },
+    "lh-tight": {
+      "$value": 1.149999976158142,
+      "$type": "number",
+      "$description": ""
+    },
+    "lh-base": {
+      "$value": 1.5,
+      "$type": "number",
+      "$description": ""
+    },
+    "lh-loose": {
+      "$value": 1.600000023841858,
+      "$type": "number",
+      "$description": ""
+    },
+    "heading-xxl": {
+      "$value": 30.409297943115234,
+      "$type": "number",
+      "$description": ""
+    },
+    "heading-xl": {
+      "$value": 27.030487060546875,
+      "$type": "number",
+      "$description": ""
+    },
+    "heading-lg": {
+      "$value": 24.027099609375,
+      "$type": "number",
+      "$description": ""
+    },
+    "heading-md": {
+      "$value": 21.357421875,
+      "$type": "number",
+      "$description": ""
+    },
+    "heading-sm": {
+      "$value": 18.984375,
+      "$type": "number",
+      "$description": ""
+    },
+    "body-lg": {
+      "$value": 16.875,
+      "$type": "number",
+      "$description": ""
+    },
+    "body-md": {
+      "$value": 15,
+      "$type": "number",
+      "$description": ""
+    },
+    "body-sm": {
+      "$value": 13.333333015441895,
+      "$type": "number",
+      "$description": ""
+    },
+    "body-xs": {
+      "$value": 11.851851463317871,
+      "$type": "number",
+      "$description": ""
+    },
+    "label": {
+      "$value": "{font.body-sm}",
+      "$type": "number",
+      "$description": ""
+    },
+    "text-button": {
+      "$value": "{font.body-md}",
+      "$type": "number",
+      "$description": ""
+    },
+    "lh-auto": {
+      "$value": 1,
+      "$type": "number",
+      "$description": ""
+    },
+    "base": {
+      "$value": 15,
+      "$type": "number",
+      "$description": ""
+    },
+    "family-primary": {
+      "$value": "Inter",
+      "$type": "string",
+      "$description": ""
+    },
+    "family-number": {
+      "$value": "DM Mono",
+      "$type": "string",
+      "$description": ""
+    },
+    "weight-semi-bold": {
+      "$value": 600,
+      "$type": "number",
+      "$description": ""
+    },
+    "weight-extra-bold": {
+      "$value": 800,
+      "$type": "number",
+      "$description": ""
+    }
+  },
+  "scale": {
+    "l-0": {
+      "$value": 0,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-2": {
+      "$value": 2,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-4": {
+      "$value": 4,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-6": {
+      "$value": 6,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-8": {
+      "$value": 8,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-10": {
+      "$value": 10,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-12": {
+      "$value": 12,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-13": {
+      "$value": 13,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-14": {
+      "$value": 14,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-16": {
+      "$value": 16,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-18": {
+      "$value": 18,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-20": {
+      "$value": 20,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-22": {
+      "$value": 22,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-24": {
+      "$value": 24,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-26": {
+      "$value": 26,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-28": {
+      "$value": 28,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-30": {
+      "$value": 30,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-32": {
+      "$value": 32,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-34": {
+      "$value": 34,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-36": {
+      "$value": 36,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-37": {
+      "$value": 37,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-38": {
+      "$value": 38,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-40": {
+      "$value": 40,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-42": {
+      "$value": 42,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-43": {
+      "$value": 43,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-44": {
+      "$value": 44,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-46": {
+      "$value": 46,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-48": {
+      "$value": 48,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-50": {
+      "$value": 50,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-54": {
+      "$value": 54,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-56": {
+      "$value": 56,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-64": {
+      "$value": 64,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-67": {
+      "$value": 67,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-62": {
+      "$value": 62,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-72": {
+      "$value": 72,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-78": {
+      "$value": 78,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-80": {
+      "$value": 80,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-88": {
+      "$value": 88,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-96": {
+      "$value": 96,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-104": {
+      "$value": 104,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-112": {
+      "$value": 112,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-120": {
+      "$value": 120,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-128": {
+      "$value": 128,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-144": {
+      "$value": 144,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-168": {
+      "$value": 168,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-192": {
+      "$value": 192,
+      "$type": "number",
+      "$description": ""
+    },
+    "fixed-xxs": {
+      "$value": "{scale.l-2}",
+      "$type": "number",
+      "$description": ""
+    },
+    "fixed-xs": {
+      "$value": "{scale.l-4}",
+      "$type": "number",
+      "$description": ""
+    },
+    "fixed-sm": {
+      "$value": "{scale.l-8}",
+      "$type": "number",
+      "$description": ""
+    },
+    "fixed-md": {
+      "$value": "{scale.l-16}",
+      "$type": "number",
+      "$description": ""
+    },
+    "fixed-lg": {
+      "$value": "{scale.l-24}",
+      "$type": "number",
+      "$description": ""
+    },
+    "fixed-xl": {
+      "$value": "{scale.l-48}",
+      "$type": "number",
+      "$description": ""
+    },
+    "fixed-xxl": {
+      "$value": "{scale.l-144}",
+      "$type": "number",
+      "$description": ""
+    },
+    "base": {
+      "$value": 37,
+      "$type": "number",
+      "$description": ""
+    },
+    "fluid-xxs": {
+      "$value": 2,
+      "$type": "number",
+      "$description": ""
+    },
+    "fluid-xs": {
+      "$value": 4,
+      "$type": "number",
+      "$description": ""
+    },
+    "fluid-sm": {
+      "$value": 8,
+      "$type": "number",
+      "$description": ""
+    },
+    "fluid-md": {
+      "$value": "{scale.base}",
+      "$type": "number",
+      "$description": ""
+    },
+    "fluid-lg": {
+      "$value": 24,
+      "$type": "number",
+      "$description": ""
+    },
+    "fluid-xl": {
+      "$value": 48,
+      "$type": "number",
+      "$description": ""
+    },
+    "fluid-xxl": {
+      "$value": 144,
+      "$type": "number",
+      "$description": ""
+    },
+    "stroke-1": {
+      "$value": 1,
+      "$type": "number",
+      "$description": ""
+    },
+    "stroke-2": {
+      "$value": 2,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-3": {
+      "$value": 3,
+      "$type": "number",
+      "$description": ""
+    },
+    "l-1": {
+      "$value": 1,
+      "$type": "number",
+      "$description": ""
+    },
+    "stroke-3": {
+      "$value": 3,
+      "$type": "number",
+      "$description": ""
+    },
+    "stroke-4": {
+      "$value": 4,
+      "$type": "number",
+      "$description": ""
+    }
+  },
+  "z-index": {
+    "dropdown": {
+      "$value": 100,
+      "$type": "number",
+      "$description": ""
+    },
+    "modal": {
+      "$value": 1000,
+      "$type": "number",
+      "$description": ""
+    },
+    "tooltip": {
+      "$value": 2000,
+      "$type": "number",
+      "$description": ""
+    },
+    "z-index-base": {
+      "$value": 1,
+      "$type": "number",
+      "$description": ""
+    }
+  },
+  "breakpoint": {
+    "xxs": {
+      "$value": 428,
+      "$type": "number",
+      "$description": ""
+    },
+    "xs": {
+      "$value": 680,
+      "$type": "number",
+      "$description": ""
+    },
+    "sm": {
+      "$value": 768,
+      "$type": "number",
+      "$description": ""
+    },
+    "md": {
+      "$value": 1024,
+      "$type": "number",
+      "$description": ""
+    },
+    "lg": {
+      "$value": 1280,
+      "$type": "number",
+      "$description": ""
+    },
+    "xl": {
+      "$value": 1440,
+      "$type": "number",
+      "$description": ""
+    },
+    "viewport-size": {
+      "$value": 1440,
+      "$type": "number",
+      "$description": ""
+    }
+  },
+  "corner": {
+    "lg": {
+      "$value": 16,
+      "$type": "number",
+      "$description": ""
+    },
+    "md": {
+      "$value": 12,
+      "$type": "number",
+      "$description": ""
+    },
+    "sm": {
+      "$value": 8,
+      "$type": "number",
+      "$description": ""
+    },
+    "xs": {
+      "$value": 4,
+      "$type": "number",
+      "$description": ""
+    },
+    "pill": {
+      "$value": "{corner.sm}",
+      "$type": "number",
+      "$description": ""
+    },
+    "surface": {
+      "$value": "{corner.md}",
+      "$type": "number",
+      "$description": ""
+    },
+    "control": {
+      "$value": "{corner.xs}",
+      "$type": "number",
+      "$description": ""
+    },
+    "full": {
+      "$value": 96,
+      "$type": "number",
+      "$description": ""
+    },
+    "square": {
+      "$value": "{corner.none}",
+      "$type": "number",
+      "$description": ""
+    },
+    "none": {
+      "$value": 0,
+      "$type": "number",
+      "$description": ""
+    },
+    "lg-increased": {
+      "$value": 20,
+      "$type": "number",
+      "$description": ""
+    },
+    "xl": {
+      "$value": 28,
+      "$type": "number",
+      "$description": ""
+    },
+    "xl-increased": {
+      "$value": 32,
+      "$type": "number",
+      "$description": ""
+    },
+    "xxl": {
+      "$value": 48,
+      "$type": "number",
+      "$description": ""
+    },
+    "control-xs": {
+      "$value": "{corner.xxs}",
+      "$type": "number",
+      "$description": ""
+    },
+    "xxs": {
+      "$value": 2,
+      "$type": "number",
+      "$description": ""
+    }
+  },
+  "opacity": {
+    "low": {
+      "$value": 80,
+      "$type": "number",
+      "$description": ""
+    },
+    "medium": {
+      "$value": 50,
+      "$type": "number",
+      "$description": ""
+    },
+    "high": {
+      "$value": 30,
+      "$type": "number",
+      "$description": ""
+    },
+    "max": {
+      "$value": 10,
+      "$type": "number",
+      "$description": ""
+    }
+  },
+  "layout": {
+    "margin-section": {
+      "$value": 38,
+      "$type": "number",
+      "$description": ""
+    },
+    "gutter-layout": {
+      "$value": 16,
+      "$type": "number",
+      "$description": ""
+    },
+    "padding-site": {
+      "$value": 37,
+      "$type": "number",
+      "$description": ""
+    },
+    "colums-grid": {
+      "$value": 12,
+      "$type": "number",
+      "$description": ""
+    }
+  },
+  "color": {
+    "brand": {
+      "primary": {
+        "$value": "{color.brand.zafiro}",
+        "$type": "color",
+        "$description": ""
+      },
+      "secondary": {
+        "$value": "{color.brand.midnight}",
+        "$type": "color",
+        "$description": ""
+      },
+      "tertiary": {
+        "$value": "{color.brand.teal}",
+        "$type": "color",
+        "$description": ""
+      },
+      "cian": {
+        "$value": "#04D9DE",
+        "$type": "color",
+        "$description": ""
+      },
+      "teal": {
+        "$value": "#00B3B7",
+        "$type": "color",
+        "$description": ""
+      },
+      "zafiro": {
+        "$value": "#027DA2",
+        "$type": "color",
+        "$description": ""
+      },
+      "navy": {
+        "$value": "#035075",
+        "$type": "color",
+        "$description": ""
+      },
+      "nocturne-blue": {
+        "$value": "#020B42",
+        "$type": "color",
+        "$description": ""
+      },
+      "midnight": {
+        "$value": "#042046",
+        "$type": "color",
+        "$description": ""
+      },
+      "deco-gold": {
+        "$value": "#F3C500",
+        "$type": "color",
+        "$description": ""
+      },
+      "deco-flame": {
+        "$value": "#F4A83E",
+        "$type": "color",
+        "$description": ""
+      },
+      "dark-gray": {
+        "$value": "#4E4E4E",
+        "$type": "color",
+        "$description": ""
+      },
+      "light--gray": {
+        "$value": "#BFBFBF",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "gray": {
+      "50": {
+        "$value": "#F8F8F8",
+        "$type": "color",
+        "$description": ""
+      },
+      "100": {
+        "$value": "#EBEBEB",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "#D0D0D0",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "#B5B5B5",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "#9A9A9A",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{color.gray.base}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "#6C6C6C",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "#5A5A5A",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "#424242",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "#2A2A2A",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "#121212",
+        "$type": "color",
+        "$description": ""
+      },
+      "white": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "neutral-lightest": {
+        "$value": "{color.gray.50}",
+        "$type": "color",
+        "$description": ""
+      },
+      "neutral-lighter": {
+        "$value": "{color.gray.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "neutral-light": {
+        "$value": "{color.gray.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "neutral": {
+        "$value": "{color.gray.400}",
+        "$type": "color",
+        "$description": ""
+      },
+      "neutral-dark": {
+        "$value": "{color.gray.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "neutral-darker": {
+        "$value": "{color.gray.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "neutral-darkest": {
+        "$value": "{color.gray.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "black": {
+        "$value": "#000000",
+        "$type": "color",
+        "$description": ""
+      },
+      "base": {
+        "$value": "#787878",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "global-A": {
+      "50": {
+        "$value": "#F2F9FA",
+        "$type": "color",
+        "$description": ""
+      },
+      "100": {
+        "$value": "#D9ECF1",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "#A6D2DE",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "#74B8CC",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "#419EB9",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{color.global-A.base}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "#027192",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "#025E7A",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "#014559",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "#012C39",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "#001318",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-lightest": {
+        "$value": "{color.global-A.50}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-lighter": {
+        "$value": "{color.global-A.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-light": {
+        "$value": "{color.global-A.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent": {
+        "$value": "{color.global-A.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-dark": {
+        "$value": "{color.global-A.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-darker": {
+        "$value": "{color.global-A.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-darkest": {
+        "$value": "{color.global-A.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-active": {
+        "$value": "{color.global-A.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-hover": {
+        "$value": "{color.global-A.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-default": {
+        "$value": "{color.global-A.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-selected": {
+        "$value": "{color.global-A.accent-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-focus": {
+        "$value": "{color.global-A.accent-light}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-accent": {
+        "$value": "{color.global-A.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-accent-light": {
+        "$value": "{color.global-A.accent-light}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-accent-dark": {
+        "$value": "{color.global-A.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-disabled": {
+        "$value": "{color.gray.neutral-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-default": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-hover": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-active": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-selected": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-focus": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-input": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-input-hover": {
+        "$value": "{color.gray.neutral-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-input-disabled": {
+        "$value": "{color.gray.neutral-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "base": {
+        "$value": "{color.brand.zafiro}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "global-B": {
+      "50": {
+        "$value": "#F2F4F6",
+        "$type": "color",
+        "$description": ""
+      },
+      "100": {
+        "$value": "#D9DFE5",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "#A7B4C1",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "#75899E",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "#435F7B",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{color.global-B.base}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "#042547",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "#031F3B",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "#02172B",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "#010E1C",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "#01060C",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-lightest": {
+        "$value": "{color.global-B.50}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-lighter": {
+        "$value": "{color.global-B.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-light": {
+        "$value": "{color.global-B.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent": {
+        "$value": "{color.global-B.500}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-dark": {
+        "$value": "{color.global-B.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-darker": {
+        "$value": "{color.global-B.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-darkest": {
+        "$value": "{color.global-B.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-active": {
+        "$value": "{color.global-B.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-hover": {
+        "$value": "{color.global-B.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-default": {
+        "$value": "{color.global-B.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-selected": {
+        "$value": "{color.global-B.accent-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-focus": {
+        "$value": "{color.global-B.accent-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-accent": {
+        "$value": "{color.global-B.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-accent-light": {
+        "$value": "{color.global-B.accent-light}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-accent-dark": {
+        "$value": "{color.global-B.accent-light}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-disabled": {
+        "$value": "{color.gray.neutral-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-default": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-hover": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-active": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-selected": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-focus": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-input": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-input-hover": {
+        "$value": "{color.gray.neutral-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-input-disabled": {
+        "$value": "{color.gray.neutral-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "base": {
+        "$value": "{color.brand.tertiary}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "system": {
+      "error-lightest": {
+        "$value": "#FFE5E5",
+        "$type": "color",
+        "$description": ""
+      },
+      "error-lighter": {
+        "$value": "#FAA5A5",
+        "$type": "color",
+        "$description": ""
+      },
+      "error-light": {
+        "$value": "#FB6363",
+        "$type": "color",
+        "$description": ""
+      },
+      "error": {
+        "$value": "#EC221F",
+        "$type": "color",
+        "$description": ""
+      },
+      "error-dark": {
+        "$value": "#C00F0C",
+        "$type": "color",
+        "$description": ""
+      },
+      "error-darker": {
+        "$value": "#8A0606",
+        "$type": "color",
+        "$description": ""
+      },
+      "error-darkest": {
+        "$value": "#670D0D",
+        "$type": "color",
+        "$description": ""
+      },
+      "success-lightest": {
+        "$value": "#E7F6E7",
+        "$type": "color",
+        "$description": ""
+      },
+      "success-lighter": {
+        "$value": "#CCFFCC",
+        "$type": "color",
+        "$description": ""
+      },
+      "success-light": {
+        "$value": "#57E192",
+        "$type": "color",
+        "$description": ""
+      },
+      "success": {
+        "$value": "#2ECC71",
+        "$type": "color",
+        "$description": ""
+      },
+      "success-dark": {
+        "$value": "#37BB6F",
+        "$type": "color",
+        "$description": ""
+      },
+      "success-darker": {
+        "$value": "#2D8D56",
+        "$type": "color",
+        "$description": ""
+      },
+      "success-darkest": {
+        "$value": "#006400",
+        "$type": "color",
+        "$description": ""
+      },
+      "warning-lightest": {
+        "$value": "#FFEED0",
+        "$type": "color",
+        "$description": ""
+      },
+      "warning-lighter": {
+        "$value": "#FFCC6E",
+        "$type": "color",
+        "$description": ""
+      },
+      "warning-light": {
+        "$value": "#FFB52E",
+        "$type": "color",
+        "$description": ""
+      },
+      "warning": {
+        "$value": "#FFA500",
+        "$type": "color",
+        "$description": ""
+      },
+      "warning-dark": {
+        "$value": "#FF8C00",
+        "$type": "color",
+        "$description": ""
+      },
+      "warning-darker": {
+        "$value": "#D47809",
+        "$type": "color",
+        "$description": ""
+      },
+      "warning-darkest": {
+        "$value": "#713F01",
+        "$type": "color",
+        "$description": ""
+      },
+      "info-lightest": {
+        "$value": "#E6F3FF",
+        "$type": "color",
+        "$description": ""
+      },
+      "info-lighter": {
+        "$value": "#89C5FF",
+        "$type": "color",
+        "$description": ""
+      },
+      "info-light": {
+        "$value": "#48A5FF",
+        "$type": "color",
+        "$description": ""
+      },
+      "info": {
+        "$value": "#4285F4",
+        "$type": "color",
+        "$description": ""
+      },
+      "info-dark": {
+        "$value": "#2358C2",
+        "$type": "color",
+        "$description": ""
+      },
+      "info-darker": {
+        "$value": "#1111B1",
+        "$type": "color",
+        "$description": ""
+      },
+      "info-darkest": {
+        "$value": "#00008B",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-error-default": {
+        "$value": "#EC221F",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-error-hover": {
+        "$value": "#C00F0C",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-error-active": {
+        "$value": "#8A0606",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-error-disabled": {
+        "$value": "#EBEBEB",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-error-default": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-error-hover": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-error-active": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-error-disabled": {
+        "$value": "#9A9A9A",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-success-default": {
+        "$value": "#2D8D56",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-success-hover": {
+        "$value": "#006400",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-success-active": {
+        "$value": "#2D8D56",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-success-disabled": {
+        "$value": "#EBEBEB",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-success-default": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-success-hover": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-success-active": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-success-disabled": {
+        "$value": "#9A9A9A",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-warning-default": {
+        "$value": "#FF8C00",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-warning-hover": {
+        "$value": "#D47809",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-warning-active": {
+        "$value": "#713F01",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-warning-disabled": {
+        "$value": "#EBEBEB",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-warning-default": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-warning-hover": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-warning-active": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-warning-disabled": {
+        "$value": "#9A9A9A",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-error-disabled-outline": {
+        "$value": "#EBEBEB",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-error-disabled-outline": {
+        "$value": "#9A9A9A",
+        "$type": "color",
+        "$description": ""
+      },
+      "-outline": {
+        "$value": "#9A9A9A",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "path": {
+      "border-A": {
+        "$value": "{color.global-A.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "strong": {
+        "$value": "{color.gray.neutral-darkest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "middle": {
+        "$value": "{color.gray.neutral-light}",
+        "$type": "color",
+        "$description": ""
+      },
+      "subtle": {
+        "$value": "{color.gray.neutral-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "disabled": {
+        "$value": "{color.gray.neutral}",
+        "$type": "color",
+        "$description": ""
+      },
+      "inverse": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "brand-primary": {
+        "$value": "{color.brand.primary}",
+        "$type": "color",
+        "$description": ""
+      },
+      "brand-secondary": {
+        "$value": "{color.brand.secondary}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-A": {
+        "$value": "{color.global-A.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-B": {
+        "$value": "{color.global-B.accent-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "info": {
+        "$value": "{color.system.info-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "error": {
+        "$value": "{color.system.error-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "warning": {
+        "$value": "{color.system.warning-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "success": {
+        "$value": "{color.system.success-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-hover-B": {
+        "$value": "{color.global-B.accent-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-hover-A": {
+        "$value": "{color.global-A.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-active-B": {
+        "$value": "{color.global-B.accent-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-active-A": {
+        "$value": "{color.global-A.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-error": {
+        "$value": "{color.path.error}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-success": {
+        "$value": "{color.path.success}",
+        "$type": "color",
+        "$description": ""
+      },
+      "checked-A": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-B": {
+        "$value": "{color.global-B.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "checked-B": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-default": {
+        "$value": "{color.path.middle}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-warning": {
+        "$value": "{color.path.warning}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-focus-default": {
+        "$value": "{color.global-A.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "text": {
+      "link": {
+        "$value": "{color.system.info}",
+        "$type": "color",
+        "$description": ""
+      },
+      "link-hover": {
+        "$value": "{color.system.info-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-B": {
+        "$value": "{color.global-B.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-A": {
+        "$value": "{color.global-A.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "inverse": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "error": {
+        "$value": "{color.system.error-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "success": {
+        "$value": "{color.system.success-darkest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "info": {
+        "$value": "{color.system.info-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "body-strong": {
+        "$value": "{color.gray.neutral-darkest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "body-default": {
+        "$value": "{color.gray.neutral-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "body-subtle": {
+        "$value": "{color.gray.neutral-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-C": {
+        "$value": "{color.deco-C.accent}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "bg": {
+      "page": {
+        "$value": "{color.gray.neutral-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "nav": {
+        "$value": "{color.gray.neutral-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "footer": {
+        "$value": "{color.global-B.accent-darkest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "side-pannel": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "default-surface": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "deco-C": {
+      "50": {
+        "$value": "#FEFBF5",
+        "$type": "color",
+        "$description": ""
+      },
+      "100": {
+        "$value": "#FDF2E2",
+        "$type": "color",
+        "$description": ""
+      },
+      "200": {
+        "$value": "#FBE1BB",
+        "$type": "color",
+        "$description": ""
+      },
+      "300": {
+        "$value": "#F9CF95",
+        "$type": "color",
+        "$description": ""
+      },
+      "400": {
+        "$value": "#F7BE6E",
+        "$type": "color",
+        "$description": ""
+      },
+      "500": {
+        "$value": "{color.deco-C.base}",
+        "$type": "color",
+        "$description": ""
+      },
+      "600": {
+        "$value": "#DC9738",
+        "$type": "color",
+        "$description": ""
+      },
+      "700": {
+        "$value": "#B77E2F",
+        "$type": "color",
+        "$description": ""
+      },
+      "800": {
+        "$value": "#865C22",
+        "$type": "color",
+        "$description": ""
+      },
+      "900": {
+        "$value": "#553B16",
+        "$type": "color",
+        "$description": ""
+      },
+      "950": {
+        "$value": "#251909",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-lightest": {
+        "$value": "{color.deco-C.50}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-lighter": {
+        "$value": "{color.deco-C.100}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-light": {
+        "$value": "{color.deco-C.200}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent": {
+        "$value": "{color.deco-C.600}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-dark": {
+        "$value": "{color.deco-C.800}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-darker": {
+        "$value": "{color.deco-C.900}",
+        "$type": "color",
+        "$description": ""
+      },
+      "accent-darkest": {
+        "$value": "{color.deco-C.950}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-active": {
+        "$value": "{color.deco-C.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-hover": {
+        "$value": "{color.deco-C.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-default": {
+        "$value": "{color.deco-C.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-selected": {
+        "$value": "{color.deco-C.accent-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-focus": {
+        "$value": "{color.deco-C.accent-darker}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-accent": {
+        "$value": "{color.deco-C.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-accent-light": {
+        "$value": "{color.deco-C.accent-light}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-accent-dark": {
+        "$value": "{color.deco-C.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "state-disabled": {
+        "$value": "{color.gray.neutral-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-default": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-hover": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-active": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-selected": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-focus": {
+        "$value": "{color.path.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "on-state-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-input": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-input-hover": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "surface-input-disabled": {
+        "$value": "{color.gray.neutral-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "base": {
+        "$value": "{color.brand.deco-flame}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "button-primary": {
+      "fill-bg-default": {
+        "$value": "{color.global-A.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-default": {
+        "$value": "{color.global-A.on-state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-hover": {
+        "$value": "{color.global-A.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-selected": {
+        "$value": "{color.global-A.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-disabled": {
+        "$value": "{color.global-A.state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-default": {
+        "$value": "{color.global-A.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-focus": {
+        "$value": "{color.global-A.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-focus": {
+        "$value": "{color.global-A.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-selected": {
+        "$value": "{color.global-A.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-default": {
+        "$value": "{color.global-A.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-hover": {
+        "$value": "{color.global-A.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-hover": {
+        "$value": "{color.global-A.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-focus": {
+        "$value": "{color.global-A.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-selected": {
+        "$value": "{color.global-A.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-disabled": {
+        "$value": "{color.global-A.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-hover": {
+        "$value": "{color.global-A.on-state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-selected": {
+        "$value": "{color.global-A.on-state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-focus": {
+        "$value": "{color.global-A.on-state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-disabled": {
+        "$value": "{color.global-A.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-disabled": {
+        "$value": "{color.global-A.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-hover": {
+        "$value": "{color.global-A.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-default": {
+        "$value": "{color.global-A.state-default}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "button-secondary": {
+      "fill-bg-default": {
+        "$value": "{color.global-B.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-hover": {
+        "$value": "{color.global-B.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-hover": {
+        "$value": "{color.global-B.on-state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-selected": {
+        "$value": "{color.global-B.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-selected": {
+        "$value": "{color.global-B.on-state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-focus": {
+        "$value": "{color.global-B.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-focus": {
+        "$value": "{color.global-B.on-state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-disabled": {
+        "$value": "{color.global-B.state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-disabled": {
+        "$value": "{color.global-B.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-default": {
+        "$value": "{color.global-B.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-default": {
+        "$value": "{color.global-B.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-default": {
+        "$value": "{color.global-B.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-hover": {
+        "$value": "{color.global-B.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-hover": {
+        "$value": "{color.global-B.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-hover": {
+        "$value": "{color.global-B.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-focus": {
+        "$value": "{color.global-B.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-focus": {
+        "$value": "{color.global-B.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-selected": {
+        "$value": "{color.global-B.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-selected": {
+        "$value": "{color.global-B.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-disabled": {
+        "$value": "{color.global-B.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-disabled": {
+        "$value": "{color.global-B.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-default": {
+        "$value": "{color.global-B.on-state-default}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "button-error": {
+      "fill-bg-default": {
+        "$value": "{color.system.state-error-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-hover": {
+        "$value": "{color.system.state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-hover": {
+        "$value": "{color.system.on-state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-selected": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-selected": {
+        "$value": "{color.system.on-state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-focus": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-focus": {
+        "$value": "{color.system.on-state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-disabled": {
+        "$value": "{color.system.state-error-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-disabled": {
+        "$value": "{color.system.on-state-error-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-default": {
+        "$value": "{color.system.state-error-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-default": {
+        "$value": "{color.system.state-error-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-default": {
+        "$value": "{color.system.state-error-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-hover": {
+        "$value": "{color.system.state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-hover": {
+        "$value": "{color.system.state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-hover": {
+        "$value": "{color.system.state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-focus": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-focus": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-selected": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-selected": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-disabled": {
+        "$value": "{color.system.on-state-error-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-disabled": {
+        "$value": "{color.system.on-state-error-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-default": {
+        "$value": "{color.system.on-state-error-default}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "button-success": {
+      "fill-bg-default": {
+        "$value": "{color.system.state-success-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-hover": {
+        "$value": "{color.system.state-success-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-hover": {
+        "$value": "{color.system.on-state-success-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-selected": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-selected": {
+        "$value": "{color.system.on-state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-focus": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-focus": {
+        "$value": "{color.system.on-state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-disabled": {
+        "$value": "{color.system.state-success-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-disabled": {
+        "$value": "{color.system.on-state-success-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-default": {
+        "$value": "{color.system.state-success-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-default": {
+        "$value": "{color.system.state-success-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-default": {
+        "$value": "{color.system.state-success-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-hover": {
+        "$value": "{color.system.state-success-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-hover": {
+        "$value": "{color.system.state-success-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-hover": {
+        "$value": "{color.system.state-success-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-focus": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-focus": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-selected": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-selected": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-disabled": {
+        "$value": "{color.system.on-state-success-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-disabled": {
+        "$value": "{color.system.on-state-success-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-default": {
+        "$value": "{color.system.on-state-success-default}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "button-warning": {
+      "fill-bg-default": {
+        "$value": "{color.system.state-warning-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-hover": {
+        "$value": "{color.system.state-warning-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-hover": {
+        "$value": "{color.system.on-state-warning-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-selected": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-selected": {
+        "$value": "{color.system.on-state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-focus": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-focus": {
+        "$value": "{color.system.on-state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-disabled": {
+        "$value": "{color.system.state-warning-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-disabled": {
+        "$value": "{color.system.on-state-warning-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-default": {
+        "$value": "{color.system.state-warning-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-default": {
+        "$value": "{color.system.state-warning-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-default": {
+        "$value": "{color.system.state-warning-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-hover": {
+        "$value": "{color.system.state-warning-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-hover": {
+        "$value": "{color.system.state-warning-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-hover": {
+        "$value": "{color.system.state-warning-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-focus": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-focus": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-selected": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-selected": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-disabled": {
+        "$value": "{color.system.on-state-warning-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-disabled": {
+        "$value": "{color.system.on-state-warning-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-default": {
+        "$value": "{color.system.on-state-warning-default}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "date-picker": {
+      "number-default": {
+        "$value": "{color.text.body-strong}",
+        "$type": "color",
+        "$description": ""
+      },
+      "number-weekend": {
+        "$value": "{color.text.error}",
+        "$type": "color",
+        "$description": ""
+      },
+      "number-active": {
+        "$value": "{color.text.inverse}",
+        "$type": "color",
+        "$description": ""
+      },
+      "number-today": {
+        "$value": "{color.text.accent-A}",
+        "$type": "color",
+        "$description": ""
+      },
+      "number-disabled": {
+        "$value": "{color.text.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-default": {
+        "$value": "{color.bg.default-surface}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-active": {
+        "$value": "{color.path.border-A}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-active": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-weekend": {
+        "$value": "{color.system.error-lightest}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "chip-primary": {
+      "fill-bg-default": {
+        "$value": "{color.global-A.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-default": {
+        "$value": "{color.global-A.on-state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-hover": {
+        "$value": "{color.global-A.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-selected": {
+        "$value": "{color.global-A.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-disabled": {
+        "$value": "{color.global-A.state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-default": {
+        "$value": "{color.global-A.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-focus": {
+        "$value": "{color.global-A.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-focus": {
+        "$value": "{color.global-A.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-selected": {
+        "$value": "{color.global-A.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-default": {
+        "$value": "{color.global-A.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-hover": {
+        "$value": "{color.global-A.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-hover": {
+        "$value": "{color.global-A.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-focus": {
+        "$value": "{color.global-A.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-selected": {
+        "$value": "{color.global-A.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-disabled": {
+        "$value": "{color.global-A.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-hover": {
+        "$value": "{color.global-A.on-state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-selected": {
+        "$value": "{color.global-A.on-state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-focus": {
+        "$value": "{color.global-A.on-state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-disabled": {
+        "$value": "{color.global-A.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-disabled": {
+        "$value": "{color.global-A.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-hover": {
+        "$value": "{color.global-A.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-default": {
+        "$value": "{color.global-A.state-default}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "chip-secondary": {
+      "fill-bg-default": {
+        "$value": "{color.global-B.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-hover": {
+        "$value": "{color.global-B.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-hover": {
+        "$value": "{color.global-B.on-state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-selected": {
+        "$value": "{color.global-B.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-selected": {
+        "$value": "{color.global-B.on-state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-focus": {
+        "$value": "{color.global-B.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-focus": {
+        "$value": "{color.global-B.on-state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-disabled": {
+        "$value": "{color.global-B.state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-disabled": {
+        "$value": "{color.global-B.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-default": {
+        "$value": "{color.global-B.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-default": {
+        "$value": "{color.global-B.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-default": {
+        "$value": "{color.global-B.state-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-hover": {
+        "$value": "{color.global-B.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-hover": {
+        "$value": "{color.global-B.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-hover": {
+        "$value": "{color.global-B.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-focus": {
+        "$value": "{color.global-B.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-focus": {
+        "$value": "{color.global-B.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-selected": {
+        "$value": "{color.global-B.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-selected": {
+        "$value": "{color.global-B.state-selected}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-disabled": {
+        "$value": "{color.global-B.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-disabled": {
+        "$value": "{color.global-B.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-default": {
+        "$value": "{color.global-B.on-state-default}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "chip-error": {
+      "fill-bg-default": {
+        "$value": "{color.system.state-error-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-hover": {
+        "$value": "{color.system.state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-hover": {
+        "$value": "{color.system.on-state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-selected": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-selected": {
+        "$value": "{color.system.on-state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-focus": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-focus": {
+        "$value": "{color.system.on-state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-disabled": {
+        "$value": "{color.system.state-error-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-disabled": {
+        "$value": "{color.system.on-state-error-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-default": {
+        "$value": "{color.system.state-error-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-default": {
+        "$value": "{color.system.state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-default": {
+        "$value": "{color.system.state-error-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-hover": {
+        "$value": "{color.system.state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-hover": {
+        "$value": "{color.system.state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-hover": {
+        "$value": "{color.system.state-error-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-focus": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-focus": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-selected": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-selected": {
+        "$value": "{color.system.state-error-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-disabled": {
+        "$value": "{color.system.on-state-error-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-disabled": {
+        "$value": "{color.system.on-state-error-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-default": {
+        "$value": "{color.system.on-state-error-default}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "chip-success": {
+      "fill-bg-default": {
+        "$value": "{color.system.state-success-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-hover": {
+        "$value": "{color.system.state-success-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-hover": {
+        "$value": "{color.system.on-state-success-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-selected": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-selected": {
+        "$value": "{color.system.on-state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-focus": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-focus": {
+        "$value": "{color.system.on-state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-disabled": {
+        "$value": "{color.system.state-success-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-disabled": {
+        "$value": "{color.system.on-state-success-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-default": {
+        "$value": "{color.system.state-success-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-default": {
+        "$value": "{color.system.state-success-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-default": {
+        "$value": "{color.system.state-success-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-hover": {
+        "$value": "{color.system.state-success-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-hover": {
+        "$value": "{color.system.state-success-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-hover": {
+        "$value": "{color.system.state-success-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-focus": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-focus": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-selected": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-selected": {
+        "$value": "{color.system.state-success-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-disabled": {
+        "$value": "{color.system.on-state-success-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-disabled": {
+        "$value": "{color.system.on-state-success-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-default": {
+        "$value": "{color.system.on-state-success-default}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "chip-warning": {
+      "fill-bg-default": {
+        "$value": "{color.system.state-warning-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-hover": {
+        "$value": "{color.system.state-warning-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-hover": {
+        "$value": "{color.system.on-state-warning-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-selected": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-selected": {
+        "$value": "{color.system.on-state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-focus": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-focus": {
+        "$value": "{color.system.on-state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-bg-disabled": {
+        "$value": "{color.system.state-warning-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-disabled": {
+        "$value": "{color.system.on-state-warning-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-default": {
+        "$value": "{color.system.state-warning-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-default": {
+        "$value": "{color.system.state-warning-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-default": {
+        "$value": "{color.system.state-warning-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-hover": {
+        "$value": "{color.system.state-warning-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-hover": {
+        "$value": "{color.system.state-warning-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-hover": {
+        "$value": "{color.system.state-warning-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-focus": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-focus": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-selected": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-selected": {
+        "$value": "{color.system.state-warning-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-disabled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "outline-text-disabled": {
+        "$value": "{color.system.on-state-warning-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-disabled": {
+        "$value": "{color.system.on-state-warning-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "fill-text-default": {
+        "$value": "{color.system.on-state-warning-default}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "sidenav": {
+      "item-bg-default": {
+        "$value": "{color.bg.default-surface}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-text-default": {
+        "$value": "{color.text.body-strong}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-text-hover": {
+        "$value": "{color.text.accent-A}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-bg-hover": {
+        "$value": "{color.gray.neutral-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-text-active": {
+        "$value": "{color.text.accent-A}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-bg-active": {
+        "$value": "{color.global-A.accent-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-bg-disabled": {
+        "$value": "{color.bg.default-surface}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-text-disabled": {
+        "$value": "{color.text.disabled}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "tab": {
+      "item-text-default": {
+        "$value": "{color.text.body-strong}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-line-default": {
+        "$value": "{color.path.border-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-icon-default": {
+        "$value": "{color.path.strong}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-text-active": {
+        "$value": "{color.text.accent-A}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-line-active": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-icon-active": {
+        "$value": "{color.global-A.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-bg-default": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-bg-active": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-container": {
+        "$value": "{color.gray.white}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-bg-hover": {
+        "$value": "{color.global-A.accent-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-text-hover": {
+        "$value": "{color.text.accent-A}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-line-hover": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-icon-hover": {
+        "$value": "{color.global-A.state-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-text-focus": {
+        "$value": "{color.text.body-strong}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-line-focus": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-icon-focus": {
+        "$value": "{color.path.strong}",
+        "$type": "color",
+        "$description": ""
+      },
+      "item-bg-focus": {
+        "$value": "{color.global-A.accent-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "focus-indicator": {
+        "$value": "{color.global-A.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "radio-button": {
+      "border-active": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-default": {
+        "$value": "{color.path.border-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-disabled": {
+        "$value": "{color.global-A.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "dot-disabled": {
+        "$value": "{color.global-A.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "focus": {
+        "$value": "{color.global-A.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "dot-active": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-active": {
+        "$value": "{color.global-A.surface-input-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-default": {
+        "$value": "{color.global-A.surface-input}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-disabled": {
+        "$value": "{color.global-A.surface-input-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "hover": {
+        "$value": "{color.global-A.accent-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "hover-disabled": {
+        "$value": "{color.global-A.state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "focus-disabled": {
+        "$value": "{color.global-A.state-disabled}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "checkbox": {
+      "border-active": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "check-active": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-default": {
+        "$value": "{color.path.border-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-disabled": {
+        "$value": "{color.global-A.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-active": {
+        "$value": "{color.global-A.surface-input-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-default": {
+        "$value": "{color.global-A.surface-input}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-disabled": {
+        "$value": "{color.global-A.surface-input-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "check-disabled": {
+        "$value": "{color.global-A.on-state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "focus": {
+        "$value": "{color.global-A.state-focus}",
+        "$type": "color",
+        "$description": ""
+      },
+      "hover-disabled": {
+        "$value": "{color.global-A.state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "focus-disabled": {
+        "$value": "{color.global-A.state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "hover": {
+        "$value": "{color.global-A.accent-lighter}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "avatar": {
+      "on-state": {
+        "$value": "{color.path.accent-A}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg": {
+        "$value": "{color.global-A.accent-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border": {
+        "$value": "{color.path.subtle}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "switch": {
+      "thumb": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "track": {
+        "$value": "{color.global-A.accent-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "thumb-disabled": {
+        "$value": "{color.gray.neutral-light}",
+        "$type": "color",
+        "$description": ""
+      },
+      "track-hover": {
+        "$value": "{color.global-A.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "track-focus": {
+        "$value": "{color.global-A.accent}",
+        "$type": "color",
+        "$description": ""
+      },
+      "track-disabled": {
+        "$value": "{color.gray.neutral-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "focus-indicator": {
+        "$value": "{color.global-A.accent-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "thumb-unselect": {
+        "$value": "{color.global-A.accent-lighter}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-unselect": {
+        "$value": "{color.gray.neutral-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "track-unselect": {
+        "$value": "{color.gray.neutral-dark}",
+        "$type": "color",
+        "$description": ""
+      },
+      "track-unselect-hover": {
+        "$value": "{color.global-A.accent-light}",
+        "$type": "color",
+        "$description": ""
+      },
+      "track-unselect-focus": {
+        "$value": "{color.global-A.accent-light}",
+        "$type": "color",
+        "$description": ""
+      },
+      "thumb-unselect-disabled": {
+        "$value": "{color.global-A.state-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "track-unselect-disabled": {
+        "$value": "{color.gray.neutral-light}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-unselect-disabled": {
+        "$value": "{color.gray.neutral-light}",
+        "$type": "color",
+        "$description": ""
+      }
+    },
+    "input": {
+      "bg-default": {
+        "$value": "{color.global-A.surface-input}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-hover": {
+        "$value": "{color.global-A.surface-input-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-focus": {
+        "$value": "{color.global-A.surface-input-hover}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-error": {
+        "$value": "{color.global-A.surface-input}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-success": {
+        "$value": "{color.global-A.surface-input}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-disabled": {
+        "$value": "{color.global-A.surface-input-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-default": {
+        "$value": "{color.path.border-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-hover": {
+        "$value": "{color.path.border-hover-A}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-focus": {
+        "$value": "{color.path.border-active-A}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-error": {
+        "$value": "{color.path.border-error}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-success": {
+        "$value": "{color.path.border-success}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-disabled": {
+        "$value": "{color.path.border-disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-label": {
+        "$value": "{color.text.body-strong}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-placeholder": {
+        "$value": "{color.text.body-default}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-placeholder-disabled": {
+        "$value": "{color.text.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-helper-info": {
+        "$value": "{color.text.info}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-helper-error": {
+        "$value": "{color.text.error}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-helper-success": {
+        "$value": "{color.text.success}",
+        "$type": "color",
+        "$description": ""
+      },
+      "icon": {
+        "$value": "{color.path.strong}",
+        "$type": "color",
+        "$description": ""
+      },
+      "icon-disbled": {
+        "$value": "{color.path.disabled}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-value": {
+        "$value": "{color.text.body-strong}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-value-selected": {
+        "$value": "{color.global-A.on-state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-value-selected": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "border-active": {
+        "$value": "{color.global-A.state-active}",
+        "$type": "color",
+        "$description": ""
+      },
+      "bg-value-option-hover": {
+        "$value": "{color.global-A.accent-lightest}",
+        "$type": "color",
+        "$description": ""
+      },
+      "text-value-hover": {
+        "$value": "{color.text.body-strong}",
+        "$type": "color",
+        "$description": ""
+      }
+    }
+  },
+  "ratio": {
+    "rt-major-third": {
+      "$value": 1.25,
+      "$type": "number",
+      "$description": ""
+    },
+    "rt-minor-third": {
+      "$value": 1.2000000476837158,
+      "$type": "number",
+      "$description": ""
+    },
+    "rt-major-second": {
+      "$value": 1.125,
+      "$type": "number",
+      "$description": ""
+    },
+    "rt-minor-second": {
+      "$value": 1.059999942779541,
+      "$type": "number",
+      "$description": ""
+    },
+    "rt-perfect-fourth": {
+      "$value": 1.3300000429153442,
+      "$type": "number",
+      "$description": ""
+    },
+    "rt-perfect-fifth": {
+      "$value": 1.5,
+      "$type": "number",
+      "$description": ""
+    },
+    "rt-golden-ratio": {
+      "$value": 1.6200000047683716,
+      "$type": "number",
+      "$description": ""
+    },
+    "ratio-scale": {
+      "$value": "{ratio.rt-major-second}",
+      "$type": "number",
+      "$description": ""
+    },
+    "rts-major-third": {
+      "$value": "major-third (1.25)",
+      "$type": "string",
+      "$description": ""
+    },
+    "rts-minor-third": {
+      "$value": "minor-third (1.2)",
+      "$type": "string",
+      "$description": ""
+    },
+    "rts-major-second": {
+      "$value": "major-second (1.125)",
+      "$type": "string",
+      "$description": ""
+    },
+    "rts-minor-second": {
+      "$value": "minor-second (1.067)",
+      "$type": "string",
+      "$description": ""
+    },
+    "rts-perfect-fifth": {
+      "$value": "perfect-fifth (1.5)",
+      "$type": "string",
+      "$description": ""
+    },
+    "rts-perfect-fourth": {
+      "$value": "perfect-fourth (1.33)",
+      "$type": "string",
+      "$description": ""
+    },
+    "ratio-scale-string": {
+      "$value": "{ratio.rt2-golden-ratio}",
+      "$type": "string",
+      "$description": ""
+    },
+    "rts-golden-ratio": {
+      "$value": "golden-ratio (1.618)",
+      "$type": "string",
+      "$description": ""
+    },
+    "rt2-golden-ratio": {
+      "$value": "1.618",
+      "$type": "string",
+      "$description": ""
+    },
+    "rt-augmented-fourth": {
+      "$value": 1.409999966621399,
+      "$type": "number",
+      "$description": ""
+    },
+    "rts-augmented-fourth": {
+      "$value": "augmented-fourth (1.414)",
+      "$type": "string",
+      "$description": ""
+    }
+  }
+}
