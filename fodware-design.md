@@ -23,22 +23,10 @@
 | Brand | Sin detalles |
 | 📦 Archive | Sin detalles |
 
-## 📸 Registro de trabajo en progreso (WIP)
-
-### Section name: Brand2
-
-**Fecha:** 2026-02-06<br>
-**DS track Number:** 714 Tokens, 59 Componentes<br>
-**Url Section:** [Ir a la sección](https://www.figma.com/design/b76QTAD3VrAZ0gz0hPmyRZ/Libreri%CC%81a-foodware?version-id=2317315404843576388&node-id=58688-20998)<br>
-**Snapshot Id version:** 2317315404843576388<br>
-**Url Version:** [Version link Snapshot](https://www.figma.com/design/b76QTAD3VrAZ0gz0hPmyRZ/Libreri%CC%81a-foodware?version-id=2317315404843576388&node-id=58688-20998)
-
-***
-
 ## 🎨 Resumen de Tokens
 | Tipo | Cantidad |
 |---|---|
-| Colores | 568 |
+| Colores | 570 |
 | Números/Espaciado | 134 |
 | Texto | 12 |
 | Booleanos | 0 |
@@ -47,20 +35,15 @@
 | Nombre | Variantes | Node ID | Descripción |
 |---|---|---|---|
 | radio-button | 12 | `5:10805` | ⚠️ Sin descripción |
-| checkbox | 12 | `5:10833` | An input for choosing from predefined options:
-when used alone, it gives a binary choice (checked/unchecked);
-in a group it allows the user to select multiple values from a list of options. |
+| checkbox | 12 | `5:10833` | An input for choosing from predefined options:<br>when used alone, it gives a binary choice (checked/unchecked);<br>in a group it allows the user to select multiple values from a list of options. |
 | select | 11 | `5:10993` | ⚠️ Sin descripción |
 | input | 7 | `666:3241` | ⚠️ Sin descripción |
 | .breadcrumb | 6 | `5:11035` | ⚠️ Sin descripción |
 | Radio | 12 | `498:1476` | ⚠️ Sin descripción |
-| Checkbox | 12 | `499:1785` | An input for choosing from predefined options:
-when used alone, it gives a binary choice (checked/unchecked);
-in a group it allows the user to select multiple values from a list of options. |
+| Checkbox | 12 | `499:1785` | An input for choosing from predefined options:<br>when used alone, it gives a binary choice (checked/unchecked);<br>in a group it allows the user to select multiple values from a list of options. |
 | _status indicator | 3 | `501:2044` | ⚠️ Sin descripción |
 | Avatar | 12 | `501:2949` | A graphical representation of a user: usually a photo, illustration, or initial. |
-| Alert | 32 | `576:3094` | Also known as: Notification, Feedback, Message, Banner, Callout
-A way of informing the user of important changes in a prominent way. |
+| Alert | 32 | `576:3094` | Also known as: Notification, Feedback, Message, Banner, Callout<br>A way of informing the user of important changes in a prominent way. |
 | button | 45 | `5:11093` | ⚠️ Sin descripción |
 | icon-button | 45 | `705:6498` | ⚠️ Sin descripción |
 | loading-button | 45 | `705:6859` | ⚠️ Sin descripción |
@@ -77,11 +60,7 @@ A way of informing the user of important changes in a prominent way. |
 | .side-bar-item | 3 | `735:4101` | ⚠️ Sin descripción |
 | Pie Chart | 12 | `773:7813` | ⚠️ Sin descripción |
 | Building Blocks/Primary tabs/Icon and label | 6 | `1150:4952` | Primary tabs label and icon building blocks |
-| Tabs | 10 | `1150:5249` | Tabs organize and allow navigation between groups of content that are related and at the same level of hierarchy.
-
-
-🛠 Additional options
-Tab - Select the state of tabs by selecting the individual tab and editing the variant properties. |
+| Tabs | 10 | `1150:5249` | Tabs organize and allow navigation between groups of content that are related and at the same level of hierarchy.<br><br><br>🛠 Additional options<br>Tab - Select the state of tabs by selecting the individual tab and editing the variant properties. |
 | Building Blocks/Secondary tabs/Icon and label | 6 | `1150:5184` | Secondary tabs label and icon building blocks |
 | Building Blocks/Primary tabs/Icon only | 6 | `1150:5021` | Primary tabs icon only building blocks |
 | Building Blocks/Primary tabs/Label only | 6 | `1150:5082` | Primary tabs label only building blocks |
